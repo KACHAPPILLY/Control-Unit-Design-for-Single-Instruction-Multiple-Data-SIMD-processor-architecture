@@ -1,1 +1,2 @@
 # Control-Unit-Design-for-Single-Instruction-Multiple-Data-SIMD-processor-architecture
+#The project includes 5 Verilog files. The designed control unit is to load and fetch the data from the main memory to processing element local memory. In the processing unit the multiplication between 2, 3x3 matrix multiplication. The PIPO will broad cast the 3 elements in the rows of matrices and store in the corresponding PE local memory addresses in single cycle. The project is a small demo to represent the storing and fetching of data parallelly in a single cycle.
